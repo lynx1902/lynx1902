@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushkar Dave aka lynx1902</h1>
-<h3 align="center">Sophomore at VNIT,Nagpur</h3>
+<h3 align="center">Web Dev & Open Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx1902&label=Profile%20views&color=0e75b6&style=flat" alt="lynx1902" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **davepushkar02@gmail.com**
 
-- ⚡ Fun fact **I can speak 5 languages**
+- ⚡ Fun fact **I can speak 6 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
