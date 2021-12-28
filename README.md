@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pushkar Dave aka lynx</h1>
-<h3 align="center">Web Dev & Open Source Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Pushkar</h1>
+<!-- <h3 align="center">Web Dev & Open Source Enthusiast</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx1902&label=Profile%20views&color=0e75b6&style=flat" alt="lynx1902" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/lynx1902" target="blank"><img src="https://img.shields.io/twitter/follow/lynx1902?logo=twitter&style=for-the-badge" alt="lynx1902" /></a> </p> -->
 
-- 🌱 I’m currently exploring **Web Development and Deep Learning.**
+- 🌱 I’m currently exploring **Web Development and Control Theory.**
 
 - 👯 I’m looking to collaborate on **Web Dev & ML projects**
 
