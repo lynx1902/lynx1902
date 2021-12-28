@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx1902&label=Profile%20views&color=0e75b6&style=flat" alt="lynx1902" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/lynx1902" target="blank"><img src="https://img.shields.io/twitter/follow/lynx1902?logo=twitter&style=for-the-badge" alt="lynx1902" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/lynx1902" target="blank"><img src="https://img.shields.io/twitter/follow/lynx1902?logo=twitter&style=for-the-badge" alt="lynx1902" /></a> </p>
 
 - 🌱 I’m currently exploring **Web Development and Control Theory.**
 
