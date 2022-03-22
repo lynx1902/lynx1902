@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **Controls and Data Structures.**
 
-- 👯 I’m looking to collaborate on **Web Dev & ML projects**
+- 👯 I’m looking to collaborate on **Control & Planning Projects**
 
 - 📫 Reach me at **davepushkar02@gmail.com**
 
