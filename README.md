@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/lynx1902" target="blank"><img src="https://img.shields.io/twitter/follow/lynx1902?logo=twitter&style=for-the-badge" alt="lynx1902" /></a> </p>
 
+- 🤖 Member of [IvLabs,VNIT](https://github.com/IvLabs)
+ 
 - 🌱 I’m currently exploring **Controls and Data Structures.**
 
 - 👯 I’m looking to collaborate on **Control & Planning Projects**
