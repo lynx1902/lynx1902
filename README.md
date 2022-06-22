@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pushkar</h1>
 <!-- <h3 align="center">Web Dev & Open Source Enthusiast</h3> -->
 
+![](https://github.com/lynx1902/lynx1902/blob/main/hello-t%C5%8Dru-oikawa.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx1902&label=Profile%20views&color=0e75b6&style=flat" alt="lynx1902" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lynx1902" target="blank"><img src="https://img.shields.io/twitter/follow/lynx1902?logo=twitter&style=for-the-badge" alt="lynx1902" /></a> </p>
